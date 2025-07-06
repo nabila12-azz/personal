@@ -21,15 +21,18 @@ Website ini memiliki dua bagian utama:
 3. Frontend : Tailwind CSS, HTML
 4. Server Side : Apache / XAMPP
 
+### Struktur Folder / Project
+![Struktur](images/struktur.png)
+
 ## Dokumentasi UI Publik
 
-### Halaman Home (Artikel)
+### Halaman Personal Web | Nabila Azzahra
 ![Home](images/halaman-home.png)
 
-### Halaman Gallery
+### Halaman Gallery | Nabila Azzahra
 ![Galeri](images/halaman-gallery.png)
 
-### Halaman About
+### Halaman About | Nabila Azzahra
 ![About](images/halaman-about.png)
 
 ## Dokumentasi UI Admin
@@ -37,34 +40,29 @@ Website ini memiliki dua bagian utama:
 ### Halaman Login
 ![Login](images/login.png)
 
-### Halaman Beranda (Dashboard Admin)
+### Halaman Administrator
 ![Beranda](images/beranda.png)
 
-### Kelola Artikel
-- Tampil Artikel  
+### Halaman Kelola Artikel
+- Tampilan Halaman Kelola Artikel  
   ![Kelola Artikel](images/kelola-artikel.png)
-- Edit Artikel  
+- Tampilan Halaman Edit Artikel  
   ![Edit Artikel](images/edit-artikel.png)
-- Tambah Artikel  
+- Tampilan Halaman Tambah Artikel  
   ![Tambah Artikel](images/tambah-artikel.png)
 
-### Kelola Gallery
-- Tampil Gallery  
+### Halaman Kelola Gallery
+- Tampilan Halaman Kelola Gallery  
   ![Kelola Gallery](images/kelola-gallery.png)
-- Edit Gallery  
+- Tampilan Halaman Edit Gallery  
   ![Edit Gallery](images/edit-gallery.png)
-- Tambah Gallery  
+- Tampilan Halaman Tambah Gallery  
   ![Tambah Gallery](images/tambah-gallery.png)
 
-### Kelola About
-- Tampil About  
+### Halaman Kelola About
+- Tampilan Halaman Kelola About  
   ![Kelola About](images/kelola-about.png)
-- Edit About  
+- Tampilan Halaman Edit About  
   ![Edit About](images/edit-about.png)
-- Tambah About  
+- Tampilan Halaman Tambah About  
   ![Tambah About](images/tambah-about.png)
-
-## Fitur Tambahan
-
-### Struktur Folder / Project
-![Struktur](images/struktur.png)
